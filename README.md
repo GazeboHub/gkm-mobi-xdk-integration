@@ -2,8 +2,8 @@ gkm-mobi-xdk-integration
 ========================
 
 The [GKM-Mobi XDK Integration][this] project contains resources
-towards application of the [Intel XDK][xdk], within the Gazebo Project
-Mobile Knowledge Management Work Area
+towards application of the [Intel XDK NEW][xdk], within the Gazebo
+Project Mobile Knowledge Management Work Area
 
 ## Resource Outline
 
