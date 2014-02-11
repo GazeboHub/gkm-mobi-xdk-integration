@@ -11,6 +11,7 @@ Project Mobile Knowledge Management Work Area
 **Resource Links:**
 
 Location: Refer to [`doc/desktop`](doc/desktop/)
+
 Format: XDG Desktop File
 
 Summary:
