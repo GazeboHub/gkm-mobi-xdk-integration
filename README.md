@@ -20,7 +20,7 @@ Of primary interest, Desktop links are provided for retrieving
 resources of the [_Fast Track Tutorial_][ft-tut], namely the PDF full
 book edition of the tutorial and the _project files_ created in the
 tuorial. Visitors may also wish to review the video presentations of
-the tutorial material in the [_Fast Track Tutorial_][ft-tut]
+the tutorial material in the [_Fast Track Tutorial_][ft-tut], online.
 
 Secondarily, Desktop links are provided onto the web sites of some web
 services publishing specific REST-oriented protocols, as well as to
