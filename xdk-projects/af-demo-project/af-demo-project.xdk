@@ -1,0 +1,31 @@
+{
+  "project": {
+    "projectSettingsVersion": "1.0",
+    "creationData": {
+      "type": "App Designer",
+      "src": "http://edge-intel.s3.amazonaws.com/samples/production/sample-app-framework/sample.zip",
+      "projectGuid": "5ddb5c1b-2994-47c3-a01c-53ce2974e005",
+      "lastModifiedDate": 1392179708781,
+      "creationDate": 1392179708743
+    },
+    "projectFiles": {},
+    "projectDirectories": {},
+    "libraries": [
+      {
+        "name": "Cordova",
+        "version": "2.9.0",
+        "data": {
+          "default": true
+        }
+      },
+      {
+        "name": "intelXDK",
+        "version": "4.0.0",
+        "data": {
+          "default": true
+        }
+      }
+    ],
+    "services": []
+  }
+}
