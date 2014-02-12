@@ -2,7 +2,7 @@
   "project": {
     "projectSettingsVersion": "1.0",
     "creationData": {
-      "type": "Blank Project",
+      "type": "App Designer",
       "src": "blankProject",
       "projectGuid": "707348c0-e694-475a-8de9-881a19fd640c",
       "lastModifiedDate": 1392081351696,
